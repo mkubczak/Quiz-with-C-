@@ -1,0 +1,32 @@
+Stolice Swiata
+
+Europa: Jaka jest stolica Moldawii? 
+Tallin
+Vaduz
+Kiszyniow
+Bukareszt
+c
+Azja: Jaka jest stolica Kambodzy? 
+Phnom Penh
+Rangun
+Aszchabad
+Taszkent
+a
+Afryka: Jaka jest stolica Nigerii? 
+Nairobi
+Luanda
+Aszchabad
+Abudza
+d
+Ameryka Poludniowa: Jaka jest stolica Chile? 
+Asuncion
+La Paz
+Santiago
+Montevideo
+c
+Australia i Oceania: Jaka jest stolica Nowej Zelandii? 
+Wellington
+Port Moresby
+Suwa
+Apia
+a
